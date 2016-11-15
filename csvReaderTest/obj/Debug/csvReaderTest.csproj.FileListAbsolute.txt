@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\csvReader\csvReaderTest\bin\Debug\csvReaderTest.dll
+C:\Users\Administrator\Desktop\csvReader\csvReaderTest\bin\Debug\csvReaderTest.pdb
+C:\Users\Administrator\Desktop\csvReader\csvReaderTest\bin\Debug\csvReader.exe
+C:\Users\Administrator\Desktop\csvReader\csvReaderTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Administrator\Desktop\csvReader\csvReaderTest\bin\Debug\csvReader.pdb
+C:\Users\Administrator\Desktop\csvReader\csvReaderTest\obj\Debug\csvReaderTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\csvReader\csvReaderTest\obj\Debug\csvReaderTest.dll
+C:\Users\Administrator\Desktop\csvReader\csvReaderTest\obj\Debug\csvReaderTest.pdb

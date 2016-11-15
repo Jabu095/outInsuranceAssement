@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\csvReader\csvReader\bin\Debug\csvReader.exe.config
+C:\Users\Administrator\Desktop\csvReader\csvReader\obj\Debug\csvReader.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\csvReader\csvReader\bin\Debug\csvReader.exe
+C:\Users\Administrator\Desktop\csvReader\csvReader\bin\Debug\csvReader.pdb
+C:\Users\Administrator\Desktop\csvReader\csvReader\obj\Debug\csvReader.exe
+C:\Users\Administrator\Desktop\csvReader\csvReader\obj\Debug\csvReader.pdb

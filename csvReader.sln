@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csvReader", "csvReader\csvReader.csproj", "{C89C375B-585D-4C27-8120-CFEBBDAF833D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csvReaderTest", "csvReaderTest\csvReaderTest.csproj", "{19D687FF-395A-424C-AE0E-D4DA78E811A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C89C375B-585D-4C27-8120-CFEBBDAF833D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C89C375B-585D-4C27-8120-CFEBBDAF833D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C89C375B-585D-4C27-8120-CFEBBDAF833D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C89C375B-585D-4C27-8120-CFEBBDAF833D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D687FF-395A-424C-AE0E-D4DA78E811A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D687FF-395A-424C-AE0E-D4DA78E811A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D687FF-395A-424C-AE0E-D4DA78E811A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D687FF-395A-424C-AE0E-D4DA78E811A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
